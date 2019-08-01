@@ -14,7 +14,7 @@ used in a browser environment using the JavaScript SDK.
 Marketplace features included in Saunatime:
 
 - **Location search** shows the user if there are saunas available in a given location.
-- **The listing page** gives a detailed view about what a particular sauna offers.
+- **The listing page** gives a detailed view about what a particular listing offers.
 - **Transaction process**: Saunatime uses nightly booking.
 - **Notifications**: Emails are sent during the booking process to alert customers and providers
   about changes in the booking state.

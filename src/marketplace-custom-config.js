@@ -32,8 +32,8 @@ export const amenities = [
     label: 'Barbeque',
   },
   {
-    key: 'own_food_allowed',
-    label: 'Own food allowed',
+    key: 'pets_friendly',
+    label: 'Pet Friendly',
   },
 ];
 
