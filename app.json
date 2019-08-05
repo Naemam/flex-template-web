@@ -1,14 +1,14 @@
 {
-  "name": "Sharetribe Flex Template Demo",
-  "description": "Sharetribe Flex Template Demo - Saunatime!",
+  "name": "Naemam",
+  "description": "Naemam!",
   "keywords": [
     "node", 
     "react"
   ],
-  "repository": "https://github.com/sharetribe/flex-template-web/",
+  "repository": "https://github.com/Naemam/flex-template-web",
   "env": {
     "REACT_APP_MAPBOX_ACCESS_TOKEN": {
-      "description": "See: Integrating to map providers documentation https://github.com/sharetribe/flex-template-web/blob/master/docs/map-providers.md"
+      "description": "See: Integrating to map providers documentation https://github.com/Naemam/flex-template-web/blob/master/docs/map-providers.md"
     },
     "REACT_APP_SHARETRIBE_SDK_CLIENT_ID": {
       "description": "Client ID (API key). You will get this from the Sharetribe team."

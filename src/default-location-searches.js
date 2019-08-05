@@ -13,7 +13,7 @@ export default [
     origin: 'Sofia%2C+Bulgaria',
     predictionPlace: {
       address: 'Sofia, Bulgaria',
-      bounds: new LatLngBounds(new LatLng(42.698334, 23.319941), new LatLng(42.698334, 23.319941)),
+      bounds: new LatLngBounds(new LatLng(42.896425, 23.678672), new LatLng(42.412497, 23.051092)),
     },
   },
   {
@@ -21,7 +21,7 @@ export default [
     origin: 'Plovdiv%2C+Bulgaria',
     predictionPlace: {
       address: 'Plovdiv, Bulgaria',
-      bounds: new LatLngBounds(new LatLng(42.136097, 24.742168), new LatLng(42.136097, 24.742168)),
+      bounds: new LatLngBounds(new LatLng(42.200069, 24.843531), new LatLng(42.089342, 24.652632)),
     },
   },
   {
@@ -29,7 +29,7 @@ export default [
     origin: 'Varna%2C+Bulgaria',
     predictionPlace: {
       address: 'Varna, Bulgaria',
-      bounds: new LatLngBounds(new LatLng(43.204666, 27.910543), new LatLng(43.204666, 27.910543)),
+      bounds: new LatLngBounds(new LatLng(43.600267, 28.146745), new LatLng(42.815993, 27.065744)),
     },
   },
   {
@@ -37,15 +37,15 @@ export default [
     origin: 'Burgas%2C+Bulgaria',
     predictionPlace: {
       address: 'Burgas, Bulgaria',
-      bounds: new LatLngBounds(new LatLng(42.510578, 27.461014), new LatLng(42.510578, 27.461014)),
+      bounds: new LatLngBounds(new LatLng(42.713905, 27.571386), new LatLng(42.371243, 27.211493)),
     },
   },
   {
-    id: 'default-russe',
-    origin: 'Russe%2C+Bulgaria',
+    id: 'default-ruse',
+    origin: 'Ruse%2C+Bulgaria',
     predictionPlace: {
-      address: 'Russe, Bulgaria',
-      bounds: new LatLngBounds(new LatLng(43.835571, 25.965654), new LatLng(43.835571, 25.965654)),
+      address: 'Ruse, Bulgaria',
+      bounds: new LatLngBounds(new LatLng(43.981813, 26.359226), new LatLng(43.721878, 25.860395)),
     },
   },
 ];
