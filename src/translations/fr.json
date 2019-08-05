@@ -311,18 +311,8 @@
   "InboxPage.statePendingPayment": "En attente du paiement",
   "InboxPage.stateRequested": "Demandé",
   "InboxPage.title": "Messagerie",
-<<<<<<< HEAD
   "LandingPage.schemaDescription": "Louez un listing avec Saunatime ou gagnez de l'argent en partageant le vôtre !",
   "LandingPage.schemaTitle": "Louez un listing où que vous soyez | {siteTitle}",
-=======
-  "KeywordFilter.filterText": "Filtrer les résultats par",
-  "KeywordFilter.labelSelected": "\"{labelText}\"",
-  "KeywordFilter.placeholder": "Entrez un mot-clé…",
-  "KeywordFilterPlainForm.labelSelected": "Mot-clé",
-  "KeywordFilterPlainForm.placeholder": "Entrez un mot-clé…",
-  "LandingPage.schemaDescription": "Louez un sauna avec Saunatime ou gagnez de l'argent en partageant le vôtre !",
-  "LandingPage.schemaTitle": "Louez un sauna où que vous soyez | {siteTitle}",
->>>>>>> upstream/master
   "ListingCard.hostedBy": "Proposé par {authorName}.",
   "ListingCard.perDay": "par jour",
   "ListingCard.perNight": "par nuit",

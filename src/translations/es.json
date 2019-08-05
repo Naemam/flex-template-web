@@ -79,12 +79,7 @@
   "BookingPanel.perUnit": "por unidad",
   "BookingPanel.subTitleClosedListing": "Lo sentimos, este anuncio ha sido cerrado.",
   "CheckoutPage.bookingTimeNotAvailableMessage": "Desafortunadamente, el tiempo solicitado ya ha sido reservado.",
-<<<<<<< HEAD
   "CheckoutPage.errorlistingLinkText": "la página del listing",
-=======
-  "CheckoutPage.chargeDisabledMessage": "La información de pago de este proveedor está incompleta. Por está razón este anuncio no puede ser reservado. Por favor contacta a los administradores del marketplace.",
-  "CheckoutPage.errorlistingLinkText": "la página del sauna",
->>>>>>> upstream/master
   "CheckoutPage.goToLandingPage": "Ir a la página de inicio",
   "CheckoutPage.hostedBy": "Publicado por {name}",
   "CheckoutPage.initiateOrderAmountTooLow": "No podemos efectuar el cobro porque la suma es demasiado pequeña. Por favor, contacta a los administradores del marketplace.",
@@ -315,16 +310,7 @@
   "InboxPage.statePendingPayment": "Pago pendiente",
   "InboxPage.stateRequested": "Solicitada",
   "InboxPage.title": "Buzón",
-<<<<<<< HEAD
   "LandingPage.schemaDescription": "Alquila un listing usando Saunatime or gana un dinero extra al compartir tu listing",
-=======
-  "KeywordFilter.filterText": "Filtrar los resultados por",
-  "KeywordFilter.labelSelected": "\"{labelText}\"",
-  "KeywordFilter.placeholder": "Escribe una palabra clave…",
-  "KeywordFilterPlainForm.labelSelected": "Palabra clave",
-  "KeywordFilterPlainForm.placeholder": "Escribe una palabra clave…",
-  "LandingPage.schemaDescription": "Alquila un sauna usando Saunatime or gana un dinero extra al compartir tu sauna",
->>>>>>> upstream/master
   "LandingPage.schemaTitle": "Alquila saunas en cualquier parte | {siteTitle}",
   "ListingCard.hostedBy": "Publicado por {authorName}.",
   "ListingCard.perDay": "por día",
