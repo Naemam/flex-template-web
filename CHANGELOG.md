@@ -14,6 +14,31 @@ way to update this template, but currently, we follow a pattern:
 
 ## Upcoming version 2019-XX-XX
 
+- [add] Add new French and Spanish translations related to keyword search and Spanish translations
+  related to payment intents. [#1148](https://github.com/sharetribe/flex-template-web/pull/1148)
+- [add] Add new French translations related to payment intents. Also few small changes to en.json
+  for consistency. [#1139](https://github.com/sharetribe/flex-template-web/pull/1139)
+
+## [v3.2.0] 2019-07-08
+
+- [add] Keyword search/filter added to SearchPage component.
+  [#1129](https://github.com/sharetribe/flex-template-web/pull/1129)
+- [fix] temporarily remove audit CI job.
+  [#1136](https://github.com/sharetribe/flex-template-web/pull/1136)
+- [change] Update outdated dependencies. This includes updating lodash to fix the security issue.
+  [#1135](https://github.com/sharetribe/flex-template-web/pull/1135)
+
+  [v3.2.0]: https://github.com/sharetribe/flex-template-web/compare/v3.1.1...v3.2.0
+
+## [v3.1.1] 2019-07-08
+
+- [fix] Ensure on `TransactionPanel` that enquiry has a correct transition when a customer tries to
+  book the listing. This might happen with transaction process changes (e.g. when changing from
+  previous default to SCA process).
+  [#1131](https://github.com/sharetribe/flex-template-web/pull/1131)
+
+  [v3.1.1]: https://github.com/sharetribe/flex-template-web/compare/v3.1.0...v3.1.1
+
 ## [v3.1.0] 2019-07-05
 
 - [fix] SectionHero: fix type in search params. There was an extra "/s?".
